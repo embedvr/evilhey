@@ -17,7 +17,8 @@
 		people sparkle with joy while working with the dynamic nature of JavaScript, unburdened by the
 		constraints of TypeScript's explicit types. But I've never been a fan. Not after giving it five
 		minutes, not after giving it five years. So it's with great pleasure that I can announce <a
-			href="https://github.com/hotwired/turbo/pull/972">we're dropping JavaScript</a
+			href="https://github.com/hotwired/turbo/pull/972"
+			class="text-blue-500 underline">we're dropping JavaScript</a
 		> from the next big release of Turbo 8.
 	</p>
 	<p>
