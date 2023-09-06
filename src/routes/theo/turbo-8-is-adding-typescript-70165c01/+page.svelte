@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Turbo 8 is dropping JavaScript</title>
+</svelte:head>
+
 <a
 	class="flex flex-col items-center gap-2 text-gray-400 uppercase"
 	href="https://twitter.com/t3dotgg"
