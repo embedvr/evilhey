@@ -2,10 +2,7 @@
 	<title>Turbo 8 is dropping JavaScript</title>
 </svelte:head>
 
-<a
-	class="flex flex-col items-center gap-2 text-gray-400 uppercase"
-	href="https://twitter.com/t3dotgg"
->
+<a class="flex flex-col items-center gap-2 text-gray-400 uppercase" href="https://twitch.tv/theo">
 	<img src="/theo.jpg" alt="theo" class="rounded-full w-12 h-12" />
 	<span>Theo Browne</span>
 </a>
